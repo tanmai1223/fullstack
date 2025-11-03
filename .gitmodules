@@ -1,0 +1,9 @@
+[submodule "User"]
+	path = User
+	url = https://github.com/tanmai1223/user
+[submodule "Restaurant"]
+	path = Restaurant
+	url = https://github.com/tanmai1223/restaurant
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/tanmai1223/hotelbackend
